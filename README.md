@@ -1,4 +1,4 @@
-# clr_firefox_icons
+# Clr's firefox icons
 
 Just a repo to store the icons I made for my firefox bookmarks. You can use them if you want to.
 
