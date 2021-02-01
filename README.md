@@ -11,13 +11,13 @@ Might update if they end up looking ugly. **UPDATE:** ok, they look great, proba
 
 ![](https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/Screenshot%20from%202021-01-23%2016-47-05.png?token=AK6RO72G5GGWD674DXIFLGDACV73A)
 
-### Available icons
+### Available icons (jpg directory)
 
-|              |                    |             |         |        |            |                |          |           |
-|--------------|--------------------|-------------|---------|--------|------------|----------------|----------|-----------|
-| Primera fila | Gmail              | Outlook     | Prado   | Reddit | SWAD       | UGR Webmail    | Youtube  | Twitter   |
-| Segunda fila | Arch wiki          | Calendar    | Drive   | Github | Keep       | UGR Secretaria | Whatsapp | Wuolah    |
-| Tercera fila | Amazon             | ETSIIT      | BDE     | Kofi   | Forocoches | I love PDF     | PayPal   | Redbubble |
-|              | Amazon prime video | Disney Plus | Netflix | CUPS   | Musescore  | Santander      |          |           |
+|                  |                    |             |         |        |            |                |          |           |
+|------------------|--------------------|-------------|---------|--------|------------|----------------|----------|-----------|
+| **Primera fila** | Gmail              | Outlook     | Prado   | Reddit | SWAD       | UGR Webmail    | Youtube  | Twitter   |
+| **Segunda fila** | Arch wiki          | Calendar    | Drive   | Github | Keep       | UGR Secretaria | Whatsapp | Wuolah    |
+| **Tercera fila** | Amazon             | ETSIIT      | BDE     | Kofi   | Forocoches | I love PDF     | PayPal   | Redbubble |
+|                  | Amazon prime video | Disney Plus | Netflix | CUPS   | Musescore  | Santander      |          |           |
 
 
