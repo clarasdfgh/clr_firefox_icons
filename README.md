@@ -13,11 +13,12 @@ Might update if they end up looking ugly. **UPDATE:** ok, they look great, proba
 
 ### Available icons (jpg directory)
 
-|                  |                    |             |         |        |            |                |          |           |
-|------------------|--------------------|-------------|---------|--------|------------|----------------|----------|-----------|
-| **Primera fila** | Gmail              | Outlook     | Prado   | Reddit | SWAD       | UGR Webmail    | Youtube  | Twitter   |
-| **Segunda fila** | Arch wiki          | Calendar    | Drive   | Github | Keep       | UGR Secretaria | Whatsapp | Wuolah    |
-| **Tercera fila** | Amazon             | ETSIIT      | BDE     | Kofi   | Forocoches | I love PDF     | PayPal   | Redbubble |
-|                  | Amazon prime video | Disney Plus | Netflix | CUPS   | Musescore  | Santander      |          |           |
+|                           |                    |             |         |        |            |                |          |           |
+| ------------------------- | ------------------ | ----------- | ------- | ------ | ---------- | -------------- | -------- | --------- |
+| **Primera fila**          | Gmail              | Outlook     | Prado   | Reddit | SWAD       | UGR Webmail    | Youtube  | Twitter   |
+| **Segunda fila**          | Arch wiki          | Calendar    | Drive   | Github | Keep       | UGR Secretaria | Whatsapp | Wuolah    |
+| **Tercera fila**          | Amazon             | ETSIIT      | BDE     | Kofi   | Forocoches | I love PDF     | PayPal   | Redbubble |
+| **Others1**               | Amazon prime video | Disney Plus | Netflix | CUPS   | Musescore  | Santander      |          |           |
+| **Programming languages** | Python             | C           | C++     | Java   |            |                |          |           |
 
 
